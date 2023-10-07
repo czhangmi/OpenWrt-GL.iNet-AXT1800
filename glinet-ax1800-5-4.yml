@@ -37,9 +37,6 @@ packages:
   - fdisk
   - cfdisk
   - luci-app-netdata
-  - luci-app-ttyd
-  - luci-app-nlbwmon
-  - luci-app-wrtbwmon
   - luci-app-diskman
   - luci-app-watchcat
   - luci-app-ramfree
@@ -56,10 +53,11 @@ packages:
   - luci-app-fileassistant
   - luci-theme-argon
   - luci-app-argon-config
-  - luci-app-openclash
+  - luci-app-passwall
   - luci-app-zerotier
   - luci-app-openvpn
   - luci-app-unblockmusic
   - luci-app-pushbot
   - luci-app-aliyundrive-webdav
   - luci-app-turboacc
+  - luci-app-alist

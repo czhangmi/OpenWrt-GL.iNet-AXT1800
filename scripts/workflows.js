@@ -14,12 +14,12 @@
     target: 'target_wlan_ap-gl-ax1800',
     official: true,
   },
-  {
-    model: 'axt1800',
-    config: 'config-wlan-ap',
-    target: 'target_wlan_ap-gl-axt1800',
-    official: true,
-  },
+  //{
+  //  model: 'axt1800',
+  //  config: 'config-wlan-ap',
+  //  target: 'target_wlan_ap-gl-axt1800',
+  //  official: true,
+  //},
   // {
   //   model: 'mt2500',
   //   config: 'config-mt798x-7.6.6.1',

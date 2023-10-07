@@ -59,18 +59,18 @@
     name: 'luci-app-netdata',
     desc: 'Netdata实时监控',
   },
-  {
-    name: 'luci-app-ttyd',
-    desc: '网页终端命令行',
-  },
-  {
-    name: 'luci-app-nlbwmon',
-    desc: '网络带宽监视器',
-  },
-  {
-    name: 'luci-app-wrtbwmon',
-    desc: '实时流量监测',
-  },
+  //{
+  //  name: 'luci-app-ttyd',
+  //  desc: '网页终端命令行',
+  //},
+  //{
+  //  name: 'luci-app-nlbwmon',
+  //  desc: '网络带宽监视器',
+  //},
+  //{
+  //  name: 'luci-app-wrtbwmon',
+  //  desc: '实时流量监测',
+  //},
   {
     name: 'luci-app-diskman',
     desc: '磁盘管理工具',
@@ -167,10 +167,10 @@
   //   name: 'luci-app-ssr-plus',
   //   desc: 'SSR Plus+代理',
   // },
-  // {
-  //   name: 'luci-app-passwall',
-  //   desc: 'Passwall代理',
-  // },
+   {
+     name: 'luci-app-passwall',
+     desc: 'Passwall代理',
+   },
   // {
   //   name: 'luci-app-passwall2',
   //   desc: 'Passwall2代理',
@@ -179,10 +179,10 @@
   //   name: 'luci-app-vssr',
   //   desc: 'Hello World代理',
   // },
-  {
-    name: 'luci-app-openclash',
-    desc: 'Clash代理',
-  },
+  //{
+  //  name: 'luci-app-openclash',
+  //  desc: 'Clash代理',
+  //},
   
   //网络存储共享
   // {
@@ -251,4 +251,8 @@
   //   name: 'luci-app-uugamebooster',
   //   desc: 'UU网游加速器',
   // },
+  {
+    name: 'luci-app-alist',
+    desc: 'Alist 文件列表',
+  },
 ];

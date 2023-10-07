@@ -18,7 +18,8 @@ case $input in
 esac
 
 #clone source tree
-git clone https://github.com/gl-inet/gl-infra-builder.git $PWD/gl-infra-builder
+#git clone https://github.com/gl-inet/gl-infra-builder.git $PWD/gl-infra-builder
+git clone https://github.com/czhangmi/gl-infra-builder.git $PWD/gl-infra-builder
 cp -r $PWD/*.yml $PWD/gl-infra-builder/profiles
 cd $PWD/gl-infra-builder
 #setup
