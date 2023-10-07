@@ -30,7 +30,7 @@ on:
   #   - cron: 0 16 * * *
 
 env:
-  REPO_URL: https://github.com/gl-inet/gl-infra-builder
+  REPO_URL: https://github.com/czhangmi/gl-infra-builder
   REPO_BRANCH: main
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: true
